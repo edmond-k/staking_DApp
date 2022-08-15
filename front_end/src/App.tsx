@@ -8,7 +8,7 @@ import {Container} from "@material-ui/core"
 const config: Config = {
   readOnlyChainId: Kovan.chainId,
   readOnlyUrls: {
-    [Kovan.chainId]: 'https://kovan.infura.io/v3/33ed6deb3e334814b16c59a446f6e4e4',
+    [Kovan.chainId]: 'https://kovan.infura.io/v3/',
   },
   notifications: {
     expirationPeriod: 1000,
